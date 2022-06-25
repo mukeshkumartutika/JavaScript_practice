@@ -3,4 +3,4 @@ learnd things
 1.	Created github repository in chrome 
 2.	Git init command is to check the project in folder
 3.	Git push -u origan is to add files in github from pc
-4.	 Git remote 
+4.	Git remote 
